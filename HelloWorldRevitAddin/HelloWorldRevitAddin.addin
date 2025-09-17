@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Hello World</Name>
+    <Assembly>HelloWorldRevitAddin.dll</Assembly>
+    <AddInId>8A22421D-6A22-4257-A834-3435C6A2451C</AddInId>
+    <FullClassName>HelloWorldRevitAddin.Command</FullClassName>
+    <VendorId>com.example</VendorId>
+    <VendorDescription>Your Name, your.email@example.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
